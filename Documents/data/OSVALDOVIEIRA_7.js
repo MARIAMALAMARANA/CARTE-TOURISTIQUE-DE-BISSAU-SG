@@ -1,0 +1,1 @@
+var json_OSVALDOVIEIRA_7 = {"type":"FeatureCollection","name":"OSVALDOVIEIRA_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"0","NOM":"OSVALDO VIEIRA","X":428695.0,"Y":1314600.0,"INFO":"INAGAURE EN MAI 1955"},"geometry":{"type":"Point","coordinates":[-15.652903533484153,11.891346955133455]}}]}

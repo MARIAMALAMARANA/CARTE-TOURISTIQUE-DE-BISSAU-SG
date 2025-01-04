@@ -1,0 +1,74 @@
+div{
+border: 10px solid green;
+padding: 35px;
+margin: 10px;
+}
+body{
+    background-color: rgb(228, 255, 196);
+    text-align: left;
+    font-family: arial narrow;
+    font-size: 130%;
+    
+
+
+}div{
+    border: 6px double greenyellow;
+    padding: 40px;
+    margin: 15px;
+    
+    
+}
+  p{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: arial narrow;
+    font-size: 125%;
+
+  }
+  h1,h3,h4{
+    text-align: center;
+    color: green;
+    font-family: calibri;
+    text-shadow: bisque;
+    background-color: chartreuse;
+
+    
+    
+  }
+  table,td,th{
+    border:6px solid ;
+    
+    
+    
+  }
+  td,th{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    text-align: center;
+  }
+  tr:hover{
+    background-color: darkgoldenrod;
+  }
+  ol{
+  color: 4px 4px gr;
+  }
+  
+  
+
+    
+  
+  
+    
+    
+    
+  
+  
+
+    
+    
+    
+  
+  
+
